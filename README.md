@@ -10,3 +10,6 @@ There are 7 Data Tables,
  5. Orders
  6. Payments
  7. Products
+
+
+All the codes were done by using TSQL in Microsoft SQL server management studio.
